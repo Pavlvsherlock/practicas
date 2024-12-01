@@ -1,1 +1,3 @@
 segundo archivo
+a ver si empezo a dominar o push. 
+Teño que mirar en github donde se cambia o nombre da rama de main a master
